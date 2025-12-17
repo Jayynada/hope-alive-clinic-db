@@ -63,11 +63,6 @@ The database is designed with **five core tables**:
 ## Sample Data
 - A small set of dummy data is provided in `data.sql` for testing queries.  
 
----
-
-## ER Diagram
-![ER Diagram](ERD.png)  
-*Visual representation of tables and their relationships.*
 
 ---
 
